@@ -330,7 +330,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, dataset requests, or collaboration:
 
-📧 **Email**: [corresponding author email]
+📧 **Email**: [lucassivan@163.com]
 
 ---
 
